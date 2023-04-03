@@ -4,7 +4,7 @@
 * Unity
 * C#
 ### **Builds**
-This file contains builds for both Windows and MacOS located in the GameBuilds folder. 
+I compiled two builds for this game. One for macOS and the other for Windows. The game was too big for me to upload anything more than the scripts I'd written but you can view a short demo [here](https://youtu.be/7FxBIxn6mcY)
 
 ### **History**
 I was maybe five or six the first time i saw a Nintend Entertainment System and was completely awstruck. This project being the first game in the course for us to build from the ground up, I thought it fitting to call back to the beginning of my gaming life and make my own version of one of the first games I liked.
