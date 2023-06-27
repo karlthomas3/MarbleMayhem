@@ -1,4 +1,3 @@
-# CS50G Final Project
 ## Marble Mayhem
 ### **Resources**
 * Unity
